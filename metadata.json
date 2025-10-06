@@ -1,0 +1,5 @@
+{
+  "name": "251006_Mini Voting System",
+  "description": "A simple, real-time A/B voting system for quick interactive polls during events, meetings, or classes. Features include a countdown timer, live result visualization, and basic appearance customization.",
+  "requestFramePermissions": []
+}
